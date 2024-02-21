@@ -1,0 +1,6 @@
+config {
+    type: "table"
+}
+SELECT * from `dastgyr-data-warehouse.test_SCD.product_sku`
+
+
